@@ -1,2 +1,2 @@
 # consul-template
-Latest build of consul-template
+Simple build of consul-template for use within a containerized environment.
